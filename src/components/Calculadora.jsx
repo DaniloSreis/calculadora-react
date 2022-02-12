@@ -69,7 +69,7 @@ function Calculadora() {
         <button onClick={operatorHandler} value='+' className="orange">+</button>
 
         <button onClick={inputNumber} className='wide' value={0}>0</button>
-        <button onClick={inputNumber} value={','}>,</button>
+        <button onClick={inputNumber} value={'.'}>.</button>
         <button onClick={calculate} className="orange">=</button>
       </div>
     </div>
