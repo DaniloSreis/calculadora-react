@@ -1,0 +1,36 @@
+.container {
+  width: 500px;
+}
+
+.wrapper {
+  width: 100%;
+}
+
+.result {
+  background: #858694;
+  color: #fff;
+  font-size: 2rem;
+  text-align: end;
+  padding: 1rem;
+  height: 70px;
+}
+
+button {
+  width: 25%;
+  height: 50px;
+  font-size: 1.5rem;
+  border: solid 1px #fff;
+}
+
+button:hover {
+  cursor: pointer;
+}
+
+.orange {
+  background: #f5923e;
+  color: #fff;
+}
+
+.wide {
+  width: 50%;
+}
